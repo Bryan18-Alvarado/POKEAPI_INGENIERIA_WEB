@@ -1,0 +1,6 @@
+-listar los id de los pokemon
+-Listar nombres de los pokemon
+-Mostrar un pokemon aleatorio
+-Mostrar un pokemon por nombre por nombre o por ID
+-Manejo de evolucion de un pokemon
+-seleccionar hasta 6 pokemon para un equipo

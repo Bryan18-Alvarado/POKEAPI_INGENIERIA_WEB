@@ -13,7 +13,6 @@ const getOnePokemon = async () => {
   }
 }
 
-// Renderizar el Pokémon
 const renderOnePokemon = (pokemon) => {
   listOnePokemon.innerHTML = `
     <div class="card">
